@@ -1,0 +1,12 @@
+
+html {
+  scroll-behavior: smooth;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.MuiIconButton-root:hover {
+  color: #01ae66; /* Change the color on hover */
+}
