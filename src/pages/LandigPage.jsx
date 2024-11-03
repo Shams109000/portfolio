@@ -28,7 +28,7 @@ const LandingPage = () => {
             experiences.
           </Typography>
           <Button
-            href="../public/resume.pdf" 
+            href="/portfolio/resume.pdf" 
             download="MD_Shams_Alam_Ansari_Resume.pdf" 
             variant="contained"
             className="mt-2 mb-2"
